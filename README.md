@@ -2,7 +2,7 @@
 
 ## Instruções para entrega
 
-Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Gihub para ter acesso aos dados: 
+Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Gihub para ter acesso aos dados: <br>
 👉 https://github.com/julianazanelatto/power_bi_analyst 
 
 A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visuais. Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.  
