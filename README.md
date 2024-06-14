@@ -8,7 +8,7 @@ Projeto replicado e ampliado referente a um análise financeiro de vendas e seus
 
 - Na página 3, temos o Relatório de Distribuição de Lucro, Vendas e Unidades vendidas por País e Segmento. E nele, temos 2 mapas sendo o de cima, temos a soma das vendas e a soma das unidades vendidas por país. E a outra temos a soma do lucro por país. O outro gráfico é o Treemap contém a soma dos lucros por segment. E por fim, temos o gráfico de pizza Relatório de Distribuição de Lucros, Vendas e Unidades Vendidas Por Páis e Segmento que contém a soma dos lucros por segmento.
 
-- Fonte: https://www.novypro.com/project/report-sample-financial
+- Fonte: [https://www.novypro.com/project/report-sample-financial](https://project.novypro.com/HOOlec)
 
 ![desafio 1 1](https://github.com/Adriano1976/project_sample_financial/assets/17755195/23c1ba7a-c939-4a59-9390-40ae6782af7f)
 
